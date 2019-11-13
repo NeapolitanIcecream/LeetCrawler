@@ -1,7 +1,7 @@
 # LeetCrawler
 A simple LeetCode-CN crawler.
 
-[https://git.bdaa.pro/yxonic/data-specification/wikis/LeetCode%20%E8%AE%A8%E8%AE%BA](https://git.bdaa.pro/yxonic/data-specification/wikis/LeetCode 讨论)
+https://git.bdaa.pro/yxonic/data-specification/wikis/LeetCode%20%E8%AE%A8%E8%AE%BA
 
 ## Usage
 
